@@ -1,0 +1,30 @@
+html {
+  padding: 0 90px;
+}
+body {
+  background-color: #e0e0e0;
+
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+#carousel {
+  height: 360px;
+  display: block;
+  margin: 0 auto;
+  align-self: center;
+  width: 50%;
+
+}
+
+.media {
+  width: 50%;
+}
+
+.indexText {
+  padding: 0 90px;
+  text-align: center;
+  align-items: center;
+}
