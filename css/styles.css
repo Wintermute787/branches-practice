@@ -26,3 +26,9 @@ body {
   text-align: center;
   align-items: center;
 }
+
+.card {
+  display: inline-block;
+  margin-left: 250px;
+  margin-top: 50px;
+}
